@@ -22,5 +22,5 @@ I plan to also use this as a temporary area to list what I am doing/plan to, atl
   - DOOM
   - org mode
 - [ ] flesh out contents in README
-- light mode SVG
-- GitHub action to autogenerate date
+  - light mode SVG
+  - GitHub action to autogenerate date
